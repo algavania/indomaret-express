@@ -7,4 +7,4 @@ Point of Sale REST API using Express + MongoDB.
 3. Create .env file consisting of `"DATABASE_URL"` (refering to your MongoDB URL) and `"JWT_SECRET"`.
 4. Run `npm install` to install all neccessary packages for this project.
 5. Run `npm run devStart` to run the server in development mode.
-6. Download the Postman Collection for the documentation of the REST API [here](../indomaret-express/docs/Indomaret%20Express.postman_collection.json).
+6. Download the Postman Collection for the documentation of the REST API [here](./docs/Indomaret%20Express.postman_collection.json){:target="_blank"}.
